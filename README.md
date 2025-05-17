@@ -15,8 +15,4 @@ To train the model, run
 python main.py --year predict_year --Q predict_quarter
 ```
 
-% ### Data
-
-% Dataset can find at https://github.com/AI4Risk/interbank/tree/main/datasets
-
 ## Citing this work
